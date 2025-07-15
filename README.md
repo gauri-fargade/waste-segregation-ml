@@ -36,7 +36,7 @@ It includes a training notebook and a real-time prediction web app built with **
 The trained model (`waste_classification_model.h5`) is too large for GitHub.  
 📥 Download it here:
 
-👉 [Download Model from Google Drive](https://drive.google.com/file/d/1xCMte2tdKMfwUh01ETj-A9DbAU-0-4oI/view?usp=sharing](https://drive.google.com/file/d/1SEwMcrXCC-3dIP_WtKI9Pl-EVNVCVYMV/view?usp=sharing)
+👉 [Download Model from Google Drive]([https://drive.google.com/file/d/1xCMte2tdKMfwUh01ETj-A9DbAU-0-4oI/view?usp=sharing](https://drive.google.com/file/d/1SEwMcrXCC-3dIP_WtKI9Pl-EVNVCVYMV/view?usp=sharing](https://drive.google.com/file/d/1SEwMcrXCC-3dIP_WtKI9Pl-EVNVCVYMV/view?usp=sharing))
 
 📝 After downloading, place the file in the **same folder as `app.py`**.
 
