@@ -1,4 +1,4 @@
-##♻️ Intelligent Waste Segregation Using Deep Learning
+♻️ Intelligent Waste Segregation Using Deep Learning
 
 This project classifies waste images into **organic** and **reusable** using a **Convolutional Neural Network (CNN)**.  
 It includes a training notebook and a real-time prediction web app built with **Streamlit**.
